@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" alt="Awesome Grub logo">
+	<img height="30%" width="30%" src="awesome-logo.svg" alt="Awesome Grub logo">
 	<br>
 	<br>
 	<h1>Awesome Grub</h1>
